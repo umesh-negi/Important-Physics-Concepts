@@ -35,3 +35,8 @@ A vector which gives the position of a particle at a point with respect to the o
 ## 6. Unit Vector
 
 A vector having unit magnitude in a given direction is called a unit vector in that direction.
+
+
+# Vector Operations
+
+## 1. Multiplication of a Vector y a Scalar
