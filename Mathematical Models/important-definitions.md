@@ -27,3 +27,7 @@ A negative vector of a given vector is a vector of the same magnitude but opposi
 ## 4. Equal Vectors
 
 Two vectors A and B representing same physical quantity are said to be equal if and only if they have the same magnitude and direction.
+
+## %. Position Vector
+
+A vector which gives the position of a particle at a point with respect to the origin of a chosen coordinate system is called the position vector of the particle.
