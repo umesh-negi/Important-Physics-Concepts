@@ -15,3 +15,7 @@ E.g. Displacement, Velocity, Time
 ## 1. Zero Vector
 
 A vector having zero magnitude with a particular direction (arbitrary) is called zero vector.
+
+## 2. Resultant Vector
+
+The resultant of two or more vectors is that single vector, which produces the same effect, as produced by all the vectors together.
