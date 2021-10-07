@@ -19,3 +19,7 @@ A vector having zero magnitude with a particular direction (arbitrary) is called
 ## 2. Resultant Vector
 
 The resultant of two or more vectors is that single vector, which produces the same effect, as produced by all the vectors together.
+
+## 3. Negative Vector
+
+A negative vector of a given vector is a vector of the same magnitude but opposite in direction to that of the given vector.
