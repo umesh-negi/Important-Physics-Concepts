@@ -9,3 +9,7 @@ The displacement of the object between $t_1$ and $t_2$ is the difference between
 # Path Length
 
 This is the actual distance travelled by the object during its motion. It is a scalar quantity and its dimensions are also that of length.
+
+# Average velocity
+
+This is defined as the displacement of the object during the time interval over which average velocity is being calculated, divided by that time interval.
