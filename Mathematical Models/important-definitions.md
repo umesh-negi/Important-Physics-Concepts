@@ -39,4 +39,6 @@ A vector having unit magnitude in a given direction is called a unit vector in t
 
 # Vector Operations
 
-## 1. Multiplication of a Vector y a Scalar
+## 1. Multiplication of a Vector by a Scalar
+
+Multiplying a vector by a scalar quantity say s, yields another vector.
