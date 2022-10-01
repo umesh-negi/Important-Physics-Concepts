@@ -17,4 +17,9 @@ E.g. Length, Mass, Time
 # Derived Quantity
 
 The quantities that are derived using the fundamental quantities are called derived quantities. The units that are used to measure these derived quantities are called derived units. 
-Examples: Force, Velocity, Density, Heat, Power, Energy, Momentum, Acceleration.
+E.g. Force, Velocity, Density, Heat, Power, Energy, Momentum, Acceleration.
+
+# Fundamental Units
+
+The units used to measure fundamental quantities are called fundamental units.
+E.g. metre, kilogram etc.
