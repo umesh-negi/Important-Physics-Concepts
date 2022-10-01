@@ -28,3 +28,9 @@ E.g. metre, kilogram etc.
 
 The units used to measure derived quantities are called derived units
 E.g. Unit of velocity = metre/second (m/s) 
+
+# Supplementary Units
+
+Besides the seven fundamental or basic units, there are two more units called supplementary units. They are as follows:
+1. Plane Angle
+2. Solid Angle
