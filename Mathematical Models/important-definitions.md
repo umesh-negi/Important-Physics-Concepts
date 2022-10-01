@@ -42,3 +42,7 @@ A vector having unit magnitude in a given direction is called a unit vector in t
 ## 1. Multiplication of a Vector by a Scalar
 
 Multiplying a vector by a scalar quantity say s, yields another vector.
+
+## 2. Addition and Subtraction of Vectors
+
+The addition or subtraction of two or more vectors of the same type, i.e. describing the same physical quantity, gives rise to a single vector, such that the effect of this single vector is the same as the net effect of the vectors which have been added or subtracted.
