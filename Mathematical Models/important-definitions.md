@@ -50,3 +50,7 @@ The addition or subtraction of two or more vectors of the same type, i.e. descri
 ## 3. Triangle Law for Vector Addition
 
 If two vectors describing the same physical quantity are represented in magnitude and direction by the two sides of a triangle taken in order, then their resultant is represented in magnitude and direction by the third side of the triangle drawn in the opposite sense (from the starting point of first vector to the end point of the second vector).
+
+Properties of Vector addition:
+1. Vector addition is commutative
+2. Vector addition is associative
