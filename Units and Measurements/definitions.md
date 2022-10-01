@@ -33,7 +33,12 @@ E.g. Unit of velocity = metre/second (m/s)
 
 Besides the seven fundamental or basic units, there are two more units called supplementary units. They are as follows:
 1. Plane Angle
+  
+    - For planes, r.n1 = d1 and r.n2 = d2, we will use the formula cos θ = |(n1 . n2)/(|n1|. |n2|), where n1 , and n2 are normal vectors to the two planes and θ is the angle between the two planes.
+
 2. Solid Angle
+ 
+    - The formula of the solid angle(Ω) is, Ω=Area of part of the spherical surface subtended divided by the radius of the area of the part of the spherical surface subtended. That is, Ω=Ar2.
 
 # Dimensions
 The dimensions of a physical quantity are the powers to which the concerned fundamental units must be raised in order to obtain the unit of the given physical quantity
