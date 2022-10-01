@@ -23,3 +23,8 @@ E.g. Force, Velocity, Density, Heat, Power, Energy, Momentum, Acceleration.
 
 The units used to measure fundamental quantities are called fundamental units.
 E.g. metre, kilogram etc.
+
+# Derived Units
+
+The units used to measure derived quantities are called derived units
+E.g. Unit of velocity = metre/second (m/s) 
